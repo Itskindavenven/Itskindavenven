@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itskindavenven
-- 👀 I’m interested in Machine learning, Web dev, Cybersec.
+- 👀 I’m interested in Machine learning and Web dev
 - 🌱 I’m currently learning Computer Science at Atma Jaya Yogyakarta University
 - 📫 How to reach me
     Instagram: @itskindaven
